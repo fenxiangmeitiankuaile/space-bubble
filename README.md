@@ -43,7 +43,7 @@ There's also a secret: about **1 in 25 new bubbles is a hidden egg ball** (deep 
 
 ### 📥 Download & Install
 
-**Download: [SpaceBubble-1.0.apk](SpaceBubble-1.0.apk)** — signed release build (v1.0)
+**Download: [SpaceBubble-1.1.apk](SpaceBubble-1.1.apk)** — signed release build (v1.1)
 
 This game is **not on Google Play or any app store** — the APK is distributed directly through this GitHub repo. That means a manual one-time install:
 
@@ -109,7 +109,7 @@ Free to play and share — the APK may be redistributed as-is. Game © 2026 agoo
 
 ### 📥 下载与安装
 
-**下载：[SpaceBubble-1.0.apk](SpaceBubble-1.0.apk)**（v1.0 签名正式包）
+**下载：[SpaceBubble-1.1.apk](SpaceBubble-1.1.apk)**（v1.1 签名正式包）
 
 本游戏**不上架任何应用市场**，APK 直接发布在本 GitHub 仓库，需要手动安装一次：
 
